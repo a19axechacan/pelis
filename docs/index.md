@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Pelis
+###Pel-lícules millor premiades per RottenTomatoes 2021
+####Aquestes son les pel-lícules millor valorades per la plataforma RottenTomatoes del 2021
+* NomadLand
+* Judas and the Black Messiah
+* The Father
+* In the Heights
+* Summer of Soul
+###[Pel-lícules pitjor valorades per RottenTomatoes](Pitjors.md)
+####Aquestes son les pel-lícules pitjor valorades per la plataforma RottenTomatoes de tots els temps
+###Pel-lícules més esperades
+Aquestes son lés pel-lícules més esperades per l'audiencia
+###Pel-lícules lorem
+ADSDSADOÑAISDHOAISDH
+###[Pel-lícules favorites](fav.md)
+Aquestes son les meves pel-lícules favorites
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

@@ -1,2 +1,10 @@
 site_name: Pelis a19axechacan
-**copyright:** a19axechacan
+nav:
+ - Millor Valorades per RottenTomatoes 2021: Millors.md
+ - Pitjor Valorades per RottenTomatoes: Pitjors.md
+ - Més Esperades: Esperades.md
+ - Premis Oscar: Oscars.md
+ - Favorits: fav.md
+theme:
+ name: material
+

@@ -7,8 +7,8 @@
 * In the Heights
 * Summer of Soul
 ###[Pel-lícules pitjor valorades per RottenTomatoes](Pitjors.md)
-####Aquestes son les pel-lícules pitjor valorades per la plataforma RottenTomatoes de tots els temps
-###Pel-lícules més esperades
+Aquestes son les pel-lícules pitjor valorades per la plataforma RottenTomatoes de tots els temps
+###[Pel-lícules més esperades](Esperades.md)
 Aquestes son lés pel-lícules més esperades per l'audiencia
 ###Pel-lícules lorem
 ADSDSADOÑAISDHOAISDH

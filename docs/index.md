@@ -11,4 +11,8 @@ Aquests son els guanyadors dels Oscar dels últims 4 anys
 Aquestes son les meves pel-lícules favorites
 
 
+***
+Per posar un peu de pàgina comú només s'ha d'afegir "copyright: "El text desitjat" " al fitxer mkdocs.yml
+***
+Pots veure el projecte a: [GitHub](https://github.com/a19axechacan/pelis)
 
